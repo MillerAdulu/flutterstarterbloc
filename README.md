@@ -1,8 +1,3 @@
-# simplereactive
+# Simple Reactive
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+The starter flutter application based on this [tutorial](https://www.didierboelens.com/2018/08/reactive-programming---streams---bloc/) to count the number of taps on a FAB.
